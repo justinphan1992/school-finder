@@ -1,0 +1,25 @@
+{
+  "name": "school-finder",
+  "description": "This is the test version",
+  "main": "index.js",
+  "authors": [
+    "Justin"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "nodejs",
+    "reactjs"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.6"
+  }
+}
